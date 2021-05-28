@@ -120,5 +120,20 @@
     <ClCompile Include="Promblems\BJ2292.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Promblems\BJ1193.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Promblems\BJ2869.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Promblems\BJ10250.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Promblems\BJ2775.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Promblems\BJ2839.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
