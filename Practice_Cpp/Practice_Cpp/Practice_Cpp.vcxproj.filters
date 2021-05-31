@@ -120,6 +120,7 @@
     <ClCompile Include="Promblems\BJ2292.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="Promblems\BJ2447.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -127,6 +128,21 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Promblems\BJ10757.cpp">
+=======
+    <ClCompile Include="Promblems\BJ1193.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Promblems\BJ2869.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Promblems\BJ10250.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Promblems\BJ2775.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Promblems\BJ2839.cpp">
+>>>>>>> 167a09f6fb774aa344ec815d576d14eeace21614
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
