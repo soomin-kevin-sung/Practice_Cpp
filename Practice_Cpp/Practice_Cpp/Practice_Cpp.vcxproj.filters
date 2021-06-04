@@ -63,5 +63,10 @@
     <ClCompile Include="Promblems\BJ1436.cpp" />
     <ClCompile Include="Promblems\BJ2750.cpp" />
     <ClCompile Include="Promblems\BJ10814.cpp" />
+    <ClCompile Include="Promblems\BJ18870.cpp" />
+    <ClCompile Include="Promblems\BJ15649.cpp" />
+    <ClCompile Include="Promblems\BJ15650.cpp" />
+    <ClCompile Include="Promblems\BJ15651.cpp" />
+    <ClCompile Include="Promblems\BJ9663.cpp" />
   </ItemGroup>
 </Project>
