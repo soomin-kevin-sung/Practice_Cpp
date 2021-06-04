@@ -62,5 +62,13 @@
     <ClCompile Include="Promblems\BJ1018.cpp" />
     <ClCompile Include="Promblems\BJ1436.cpp" />
     <ClCompile Include="Promblems\BJ2750.cpp" />
+    <ClCompile Include="Promblems\BJ2751.cpp" />
+    <ClCompile Include="Examples\QuickSort.cpp" />
+    <ClCompile Include="Promblems\BJ10989.cpp" />
+    <ClCompile Include="Promblems\BJ2108.cpp" />
+    <ClCompile Include="Promblems\BJ1427.cpp" />
+    <ClCompile Include="Promblems\BJ11650.cpp" />
+    <ClCompile Include="Promblems\BJ11651.cpp" />
+    <ClCompile Include="Promblems\BJ1181.cpp" />
   </ItemGroup>
 </Project>
